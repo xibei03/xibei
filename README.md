@@ -1,2 +1,2 @@
 # xibei
-西贝的仓库
+Welcome to the Hub in Xibei!
